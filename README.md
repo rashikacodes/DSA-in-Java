@@ -10,13 +10,19 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
