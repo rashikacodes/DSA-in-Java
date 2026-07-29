@@ -27,6 +27,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
 | ------- |
