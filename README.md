@@ -7,6 +7,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -39,6 +40,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
@@ -48,6 +50,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 ## Sorting
 |  |
 | ------- |
