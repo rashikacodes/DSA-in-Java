@@ -59,12 +59,14 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rashikacodes/DSA-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rashikacodes/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -74,6 +76,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -127,6 +130,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Tree
@@ -144,5 +148,6 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
