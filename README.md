@@ -8,6 +8,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/rashikacodes/DSA-in-Java/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/rashikacodes/DSA-in-Java/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
