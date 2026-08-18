@@ -94,6 +94,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rashikacodes/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
 ## Counting Sort
 |  |
