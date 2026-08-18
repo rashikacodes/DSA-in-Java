@@ -92,6 +92,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/rashikacodes/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0237-delete-node-in-a-linked-list) |
@@ -127,6 +128,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -183,4 +185,8 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
