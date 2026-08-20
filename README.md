@@ -17,6 +17,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rashikacodes/DSA-in-Java/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1901-find-a-peak-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [1901-find-a-peak-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1901-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1901-find-a-peak-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
 |  |
 | ------- |
