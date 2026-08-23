@@ -6,6 +6,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/rashikacodes/DSA-in-Java/tree/master/0057-insert-interval) |
@@ -197,4 +198,8 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
