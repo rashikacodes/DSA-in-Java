@@ -59,6 +59,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
@@ -159,6 +160,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Tree
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -202,4 +204,8 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
