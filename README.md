@@ -7,6 +7,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashikacodes/DSA-in-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
@@ -118,6 +119,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashikacodes/DSA-in-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/rashikacodes/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
@@ -170,6 +172,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashikacodes/DSA-in-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1901-find-a-peak-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
