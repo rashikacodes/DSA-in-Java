@@ -6,6 +6,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
@@ -23,6 +24,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
