@@ -149,6 +149,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/rashikacodes/DSA-in-Java/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0877-stone-game) |
 ## Minimax
 |  |
