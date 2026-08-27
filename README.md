@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0011-container-with-most-water](https://github.com/rashikacodes/DSA-in-Java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rashikacodes/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
@@ -93,6 +94,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -111,6 +113,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0005-longest-palindromic-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rashikacodes/DSA-in-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
