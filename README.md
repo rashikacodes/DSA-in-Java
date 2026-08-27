@@ -45,6 +45,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashikacodes/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0151-reverse-words-in-a-string) |
@@ -54,6 +55,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
@@ -96,6 +98,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
@@ -216,4 +219,8 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
