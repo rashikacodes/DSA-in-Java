@@ -14,6 +14,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0018-4sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rashikacodes/DSA-in-Java/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/rashikacodes/DSA-in-Java/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
@@ -124,6 +125,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rashikacodes/DSA-in-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/rashikacodes/DSA-in-Java/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
