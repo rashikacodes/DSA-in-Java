@@ -19,6 +19,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/rashikacodes/DSA-in-Java/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/rashikacodes/DSA-in-Java/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/rashikacodes/DSA-in-Java/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/rashikacodes/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
@@ -251,6 +252,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rashikacodes/DSA-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/rashikacodes/DSA-in-Java/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -263,4 +265,8 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rashikacodes/DSA-in-Java/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rashikacodes/DSA-in-Java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
