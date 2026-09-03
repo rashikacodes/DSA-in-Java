@@ -25,6 +25,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0152-maximum-product-subarray](https://github.com/rashikacodes/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0877-stone-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +41,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
@@ -50,6 +52,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
 |  |
@@ -105,6 +108,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0018-4sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rashikacodes/DSA-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -113,6 +117,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0023-merge-k-sorted-lists](https://github.com/rashikacodes/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -227,6 +232,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/rashikacodes/DSA-in-Java/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 ## Quicksort
 |  |
