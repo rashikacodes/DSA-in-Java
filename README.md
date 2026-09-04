@@ -28,6 +28,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0877-stone-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rashikacodes/DSA-in-Java/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1901-find-a-peak-element-ii) |
@@ -49,6 +50,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0003-longest-substring-without-repeating-characters](https://github.com/rashikacodes/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
 | ------- |
@@ -213,6 +215,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rashikacodes/DSA-in-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1004-max-consecutive-ones-iii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
 |  |
@@ -281,4 +284,8 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
