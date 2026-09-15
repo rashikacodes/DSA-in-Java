@@ -70,6 +70,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0022-generate-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/rashikacodes/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -135,6 +136,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0027-remove-element](https://github.com/rashikacodes/DSA-in-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rashikacodes/DSA-in-Java/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/rashikacodes/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
