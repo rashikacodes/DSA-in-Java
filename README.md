@@ -91,6 +91,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/rashikacodes/DSA-in-Java/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
@@ -206,6 +207,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rashikacodes/DSA-in-Java/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -294,4 +296,8 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rashikacodes/DSA-in-Java/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
