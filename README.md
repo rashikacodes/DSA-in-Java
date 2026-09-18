@@ -43,6 +43,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
+| [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -55,6 +56,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## String
@@ -72,6 +74,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rashikacodes/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rashikacodes/DSA-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -112,6 +115,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0015-3sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -122,6 +126,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0023-merge-k-sorted-lists](https://github.com/rashikacodes/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
+| [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -300,4 +305,8 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rashikacodes/DSA-in-Java/tree/master/0225-implement-stack-using-queues) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
