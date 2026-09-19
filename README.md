@@ -41,6 +41,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0013-roman-to-integer](https://github.com/rashikacodes/DSA-in-Java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rashikacodes/DSA-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/rashikacodes/DSA-in-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
@@ -157,6 +158,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0023-merge-k-sorted-lists](https://github.com/rashikacodes/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rashikacodes/DSA-in-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/rashikacodes/DSA-in-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0328-odd-even-linked-list) |
