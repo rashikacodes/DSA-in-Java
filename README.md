@@ -221,6 +221,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -235,6 +236,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -282,6 +284,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Manacher
 |  |
@@ -298,6 +301,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
 ## Prefix Sum
 |  |
