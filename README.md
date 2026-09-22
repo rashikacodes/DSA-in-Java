@@ -87,6 +87,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rashikacodes/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0877-stone-game) |
@@ -223,6 +224,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -240,6 +242,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -289,6 +292,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -325,5 +329,6 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
