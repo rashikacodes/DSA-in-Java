@@ -46,6 +46,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
@@ -120,6 +121,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rashikacodes/DSA-in-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -231,6 +233,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -250,6 +253,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -301,6 +305,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Manacher
 |  |
 | ------- |
@@ -321,6 +326,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
