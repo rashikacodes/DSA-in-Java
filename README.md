@@ -233,6 +233,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -254,6 +255,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
@@ -308,6 +310,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Manacher
 |  |
@@ -330,6 +333,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
 |  |
