@@ -98,6 +98,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/rashikacodes/DSA-in-Java/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -162,6 +163,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0023-merge-k-sorted-lists](https://github.com/rashikacodes/DSA-in-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rashikacodes/DSA-in-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/rashikacodes/DSA-in-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0237-delete-node-in-a-linked-list) |
@@ -229,6 +231,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0101-symmetric-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/rashikacodes/DSA-in-Java/tree/master/0222-count-complete-tree-nodes) |
@@ -255,6 +258,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0101-symmetric-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/rashikacodes/DSA-in-Java/tree/master/0222-count-complete-tree-nodes) |
@@ -311,6 +315,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
