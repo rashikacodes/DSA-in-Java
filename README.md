@@ -99,6 +99,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/rashikacodes/DSA-in-Java/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
@@ -229,6 +230,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
@@ -257,6 +259,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
@@ -317,6 +320,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
