@@ -241,6 +241,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0222-count-complete-tree-nodes](https://github.com/rashikacodes/DSA-in-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
@@ -254,6 +255,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rashikacodes/DSA-in-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/rashikacodes/DSA-in-Java/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -274,6 +276,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0222-count-complete-tree-nodes](https://github.com/rashikacodes/DSA-in-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0700-search-in-a-binary-search-tree) |
