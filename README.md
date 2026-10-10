@@ -23,6 +23,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/rashikacodes/DSA-in-Java/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/rashikacodes/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
@@ -44,6 +45,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0076-minimum-window-substring](https://github.com/rashikacodes/DSA-in-Java/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/rashikacodes/DSA-in-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
@@ -60,6 +62,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -124,6 +127,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0015-3sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
@@ -395,4 +399,8 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
