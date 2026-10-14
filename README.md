@@ -49,6 +49,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -163,6 +164,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0151-reverse-words-in-a-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -252,6 +254,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0450-delete-node-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -266,6 +269,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0222-count-complete-tree-nodes](https://github.com/rashikacodes/DSA-in-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -290,6 +294,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -353,6 +358,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -379,6 +385,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
