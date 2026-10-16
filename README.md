@@ -27,6 +27,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/rashikacodes/DSA-in-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rashikacodes/DSA-in-Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
@@ -273,6 +274,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0700-search-in-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/rashikacodes/DSA-in-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rashikacodes/DSA-in-Java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
