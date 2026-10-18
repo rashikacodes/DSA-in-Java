@@ -377,6 +377,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0078-subsets](https://github.com/rashikacodes/DSA-in-Java/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/rashikacodes/DSA-in-Java/tree/master/0222-count-complete-tree-nodes) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/rashikacodes/DSA-in-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Breadth-First Search
 |  |
 | ------- |
