@@ -245,6 +245,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
@@ -271,6 +272,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rashikacodes/DSA-in-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0099-recover-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0099-recover-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/rashikacodes/DSA-in-Java/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0450-delete-node-in-a-bst) |
@@ -287,6 +289,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
@@ -354,6 +357,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0099-recover-binary-search-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
