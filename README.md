@@ -23,6 +23,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/rashikacodes/DSA-in-Java/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/rashikacodes/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/rashikacodes/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
@@ -118,6 +119,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/rashikacodes/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1901-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
@@ -363,6 +365,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/rashikacodes/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -395,6 +398,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0102-binary-tree-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/rashikacodes/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rashikacodes/DSA-in-Java/tree/master/0547-number-of-provinces) |
@@ -430,6 +434,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rashikacodes/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rashikacodes/DSA-in-Java/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
