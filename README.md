@@ -367,6 +367,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/rashikacodes/DSA-in-Java/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
@@ -396,6 +397,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/rashikacodes/DSA-in-Java/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -425,4 +427,12 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rashikacodes/DSA-in-Java/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rashikacodes/DSA-in-Java/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
