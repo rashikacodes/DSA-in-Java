@@ -15,6 +15,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rashikacodes/DSA-in-Java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rashikacodes/DSA-in-Java/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0055-jump-game) |
@@ -353,6 +354,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rashikacodes/DSA-in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rashikacodes/DSA-in-Java/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rashikacodes/DSA-in-Java/tree/master/0078-subsets) |
 ## Depth-First Search
