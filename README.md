@@ -28,6 +28,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0215-kth-largest-element-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/rashikacodes/DSA-in-Java/tree/master/0704-binary-search) |
@@ -142,6 +143,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0295-find-median-from-data-stream](https://github.com/rashikacodes/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashikacodes/DSA-in-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -227,6 +229,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0002-add-two-numbers](https://github.com/rashikacodes/DSA-in-Java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rashikacodes/DSA-in-Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rashikacodes/DSA-in-Java/tree/master/0013-roman-to-integer) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0877-stone-game) |
 ## Minimax
 |  |
