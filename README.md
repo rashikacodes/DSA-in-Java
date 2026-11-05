@@ -30,6 +30,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/rashikacodes/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/rashikacodes/DSA-in-Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rashikacodes/DSA-in-Java/tree/master/0875-koko-eating-bananas) |
@@ -104,6 +105,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/rashikacodes/DSA-in-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/rashikacodes/DSA-in-Java/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/rashikacodes/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/rashikacodes/DSA-in-Java/tree/master/0877-stone-game) |
 ## Stack
@@ -124,6 +126,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/rashikacodes/DSA-in-Java/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/rashikacodes/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/rashikacodes/DSA-in-Java/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/rashikacodes/DSA-in-Java/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/1901-find-a-peak-element-ii) |
@@ -411,6 +414,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0200-number-of-islands](https://github.com/rashikacodes/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/rashikacodes/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rashikacodes/DSA-in-Java/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0662-maximum-width-of-binary-tree) |
