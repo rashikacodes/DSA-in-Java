@@ -29,6 +29,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/rashikacodes/DSA-in-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/rashikacodes/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
@@ -57,6 +58,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 | [0355-design-twitter](https://github.com/rashikacodes/DSA-in-Java/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/rashikacodes/DSA-in-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/rashikacodes/DSA-in-Java/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/rashikacodes/DSA-in-Java/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -117,6 +119,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0094-binary-tree-inorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rashikacodes/DSA-in-Java/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/rashikacodes/DSA-in-Java/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/rashikacodes/DSA-in-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/rashikacodes/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
@@ -136,6 +139,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/rashikacodes/DSA-in-Java/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/rashikacodes/DSA-in-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rashikacodes/DSA-in-Java/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
