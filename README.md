@@ -29,6 +29,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0229-majority-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/rashikacodes/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/rashikacodes/DSA-in-Java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rashikacodes/DSA-in-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashikacodes/DSA-in-Java/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/rashikacodes/DSA-in-Java/tree/master/0542-01-matrix) |
