@@ -388,6 +388,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0130-surrounded-regions](https://github.com/rashikacodes/DSA-in-Java/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rashikacodes/DSA-in-Java/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/rashikacodes/DSA-in-Java/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rashikacodes/DSA-in-Java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -424,6 +425,7 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 | [0130-surrounded-regions](https://github.com/rashikacodes/DSA-in-Java/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/rashikacodes/DSA-in-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rashikacodes/DSA-in-Java/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/rashikacodes/DSA-in-Java/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rashikacodes/DSA-in-Java/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/rashikacodes/DSA-in-Java/tree/master/0542-01-matrix) |
@@ -470,5 +472,14 @@ This repository contains my Java solutions to LeetCode Data Structures and Algor
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rashikacodes/DSA-in-Java/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/rashikacodes/DSA-in-Java/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rashikacodes/DSA-in-Java/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rashikacodes/DSA-in-Java/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
